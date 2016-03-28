@@ -1,0 +1,132 @@
+[
+
+    {
+        "currency": "AAA/USD"
+        , "sell": 1.1286
+        , "buy": 1.1284
+		, "center": 1.1285
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAB/USD"
+        , "sell": 80.555
+        , "buy": 80.553
+		, "center": 80.554
+        , "extra": 3
+	},
+	
+	{
+        "currency": "AAC/USD"
+        , "sell": 100.53
+        , "buy": 100.51
+		, "center": 100.52
+        , "extra": 2
+	},
+
+    {
+        "currency": "AAD/USD"
+        , "sell": 0.9652
+        , "buy": 0.9650
+		, "center": 0.9651
+        , "extra": 4
+	},
+	
+	{
+        "currency": "AAE/USD"
+        , "sell": 1.1286
+        , "buy": 1.1284
+		, "center": 1.1285
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAF/USD"
+        , "sell": 808.55
+        , "buy": 808.53
+		, "center": 808.54
+        , "extra": 2
+	},
+	
+	{
+        "currency": "AAG/USD"
+        , "sell": 1.5353
+        , "buy": 1.5351
+		, "center": 1.5352
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAH/USD"
+        , "sell": 0.9653
+        , "buy": 0.9651
+		, "center": 0.9652
+        , "extra": 4
+	},
+	
+	{
+        "currency": "AAK/USD"
+        , "sell": 1.1286
+        , "buy": 1.1284
+		, "center": 1.1285
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAL/USD"
+        , "sell": 80.555
+        , "buy": 80.553
+		, "center": 80.554
+        , "extra": 3
+	},
+	
+	{
+        "currency": "AAM/USD"
+        , "sell": 100.53
+        , "buy": 100.51
+		, "center": 100.52
+        , "extra": 2
+	},
+
+    {
+        "currency": "AAN/USD"
+        , "sell": 0.9652
+        , "buy": 0.9650
+		, "center": 0.9651
+        , "extra": 4
+	},
+	
+	{
+        "currency": "AAO/USD"
+        , "sell": 1.1286
+        , "buy": 1.1284
+		, "center": 1.1285
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAP/USD"
+        , "sell": 808.55
+        , "buy": 808.53
+		, "center": 808.54
+        , "extra": 2
+	},
+	
+	{
+        "currency": "AAQ/USD"
+        , "sell": 1.5353
+        , "buy": 1.5351
+		, "center": 1.5352
+        , "extra": 4
+	},
+
+    {
+        "currency": "AAX/USD"
+        , "sell": 0.9653
+        , "buy": 0.9651
+		, "center": 0.9652
+        , "extra": 4
+	}
+
+
+]

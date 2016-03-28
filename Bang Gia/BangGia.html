@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>BangGia</title>
+
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap-theme.min.css">
+    <script src="./js//angular.min.js"></script>
+    <script src="./js/ag-grid.min.js"></script>
+    <script type="text/javascript" src="./js/BangGia.js"></script>
+
+    
+    <style>
+        .buttonUser {
+            padding: 2px 5px;
+        }
+        .buttonUpDown {
+            font-weight: bold;
+        }
+        .up {
+            color: #009900;
+        }
+        
+        .down {
+            color: #AA0000;
+        }
+        
+        
+		.general {
+			text-align: center;
+            line-height: 40px;
+            border: 0 !important;
+			background-image: -moz-linear-gradient(transparent, transparent, #aaa, transparent, transparent);
+            background-size: 1px 100%;
+            background-position: right bottom;
+            background-repeat: no-repeat;
+        }
+    </style>
+
+</head>
+
+<body ng-app="BangGia" ng-controller="BangGiaCtrl">
+
+    <div class="ag-fresh" ag-grid="gridOptions" style="width=100%; text-align:center;" ></div>
+
+</body>
+
+</html>
